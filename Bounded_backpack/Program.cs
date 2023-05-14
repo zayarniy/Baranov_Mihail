@@ -38,20 +38,17 @@ namespace Bounded_backpack
             int sumPrice=0,sumAmount=0,sumWeight=0;
             Console.WriteLine("P W A");
             //перебираем все элементы в списке
-            int i = 0;
             foreach (Item item in list)
             {
                 //выводим на экран
                 Console.WriteLine(item.Price + " " + item.Weight+" "+item.Amount);
-                sumPrice += item.Price*item.Amount;
-                sumAmount += item.Amount;
-                sumWeight += item.Weight*item.Amount;
             }
             Console.WriteLine("Стоимость:"+sumPrice+" Вес:"+sumWeight+" Количество:"+sumAmount);
+            Console.WriteLine("Стоимость:" + list.Sum(el=>el.Price*el.Amount) + " Вес:" + list.Sum(el => el.Weight*el.Amount) + " Количество:" + list.Sum(el => el.Amount));
 
         }
         //Печать таблицы
-        static void Print(int[,] m, List<Item> p)
+        static void PrintTable(int[,] m, List<Item> p)
         {
             Console.Write(String.Format("{0,9}", " "));
             for (int i = 0; i < m.GetLength(1); i++)
@@ -96,9 +93,8 @@ namespace Bounded_backpack
 
         }
 
-        static void ItemsSelectBound(int W, List<Item> p, int[,] T, int startItem)
+        static Dictionary<Item,int> ItemsSelectBound(int W, List<Item> p, int[,] T, int startItem)
         {
-            List<Item> items = new List<Item>();
             //Словарь ключ/значение, где ключ - это наш элемент, а значение - это количество элеметов в словаре
             Dictionary<Item, int> selectedItems = new Dictionary<Item, int>();
             for(int j=0;j<p.Count;j++)
@@ -106,11 +102,7 @@ namespace Bounded_backpack
                 selectedItems.Add(p[j], 0);
             }
             int w = W;
-            int sumPrice = 0, sumWeight=0;
-            //int w = startCount;
-            //int i =  p.Count - 1;
             int i = startItem+1;
-//            int[] counts=new int[p.Count];
             int k = w;
             while (i > 0)
             {
@@ -125,7 +117,6 @@ namespace Bounded_backpack
                             if (selectedItems[p[i-1]] < p[i - 1].Amount)
                             {
                                 selectedItems[p[i - 1]]++;
-//                                counts[i - 1]++;
                                 w -= p[i - 1].Weight;
                                 k-= p[i - 1].Weight;
                             }
@@ -135,20 +126,16 @@ namespace Bounded_backpack
                     }
                 }
             }
-            int sumCount = 0;
-            foreach (var pair in selectedItems)
-            {
-                if (pair.Value > 0)
-                {
-                    Console.WriteLine(pair.Key.Price + "$ с весом " + pair.Key.Weight + " кг x " + pair.Value + " шт.");
-                }
-                sumCount += pair.Value;
+            return selectedItems;
+        }
 
-                sumPrice += pair.Key.Price*pair.Value;
-                sumWeight += pair.Key.Weight * pair.Value;
-            }
+        static void PrintDic(Dictionary<Item, int> dic) 
+        {
+            foreach (var pair in dic)
+                if (pair.Value > 0)
+                    Console.WriteLine(pair.Key.Price + "$ с весом " + pair.Key.Weight + " кг x " + pair.Value + " шт.");
             Console.WriteLine();
-            Console.WriteLine("Стоимость:"+sumPrice+" Вес:"+sumWeight+" Количество:"+sumCount);
+            Console.WriteLine("Стоимость:" +dic.Sum(el =>el.Value>0?el.Key.Price*el.Value:0) + " Вес:"+dic.Sum(el => el.Value > 0 ? el.Key.Weight * el.Value : 0) +  " Количество:" + dic.Sum(el => el.Value));
         }
 
 
@@ -186,8 +173,10 @@ namespace Bounded_backpack
             int[,] T = Solve(temp, W);
 
             Console.WriteLine("Выбранные вещи:");
-            ItemsSelectBound(W, temp, T, temp.Count - 1);
-            Print(T, temp);
+            Dictionary<Item,int> knapsack=ItemsSelectBound(W, temp, T, temp.Count - 1);
+            PrintDic(knapsack);
+           
+            PrintTable(T, temp);
 
             Console.ReadKey();
         }
