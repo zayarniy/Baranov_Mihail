@@ -1,0 +1,42 @@
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.exe
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.deps.json
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.dll
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.pdb
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.dll
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.pdb
+D:\Задача о рюкзаке\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.genruntimeconfig.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.exe
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.deps.json
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.runtimeconfig.json
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.runtimeconfig.dev.json
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.dll
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.pdb
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.csproj.AssemblyReference.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.AssemblyInfoInputs.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.AssemblyInfo.cs
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.csproj.CoreCompileInputs.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.dll
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.pdb
+C:\Users\zaaza\Desktop\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.genruntimeconfig.cache
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.exe
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.deps.json
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.runtimeconfig.json
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.dll
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\bin\Debug\netcoreapp3.1\Bounded_backpack.pdb
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.AssemblyInfo.cs
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.dll
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.pdb
+D:\Задача о рюкзаке\Решил!\Tasks_CS\Bounded_backpack\obj\Debug\netcoreapp3.1\Bounded_backpack.genruntimeconfig.cache

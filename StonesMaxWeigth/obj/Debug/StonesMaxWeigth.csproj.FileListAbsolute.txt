@@ -1,0 +1,7 @@
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\bin\Debug\StonesMaxWeigth.exe.config
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\bin\Debug\StonesMaxWeigth.exe
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\bin\Debug\StonesMaxWeigth.pdb
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\obj\Debug\StonesMaxWeigth.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\obj\Debug\StonesMaxWeigth.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\obj\Debug\StonesMaxWeigth.exe
+D:\Задача о рюкзаке\Tasks_CS\StonesMaxWeigth\obj\Debug\StonesMaxWeigth.pdb

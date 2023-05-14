@@ -1,0 +1,14 @@
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\bin\Debug\netcoreapp3.1\Knapsack_Multiobjects.exe
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\bin\Debug\netcoreapp3.1\Knapsack_Multiobjects.deps.json
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\bin\Debug\netcoreapp3.1\Knapsack_Multiobjects.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\bin\Debug\netcoreapp3.1\Knapsack_Multiobjects.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\bin\Debug\netcoreapp3.1\Knapsack_Multiobjects.dll
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\bin\Debug\netcoreapp3.1\Knapsack_Multiobjects.pdb
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.dll
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.pdb
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_Multiobjects\obj\Debug\netcoreapp3.1\Knapsack_Multiobjects.genruntimeconfig.cache

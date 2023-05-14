@@ -1,0 +1,14 @@
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\bin\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.exe
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\bin\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.deps.json
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\bin\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\bin\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\bin\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.dll
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\bin\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.pdb
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.dll
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.pdb
+D:\Задача о рюкзаке\Tasks_CS\BoundedKnapsackAlgorithm\obj\Debug\netcoreapp3.1\BoundedKnapsackAlgorithm.genruntimeconfig.cache

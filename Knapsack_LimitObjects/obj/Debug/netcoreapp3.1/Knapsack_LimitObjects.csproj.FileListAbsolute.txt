@@ -1,0 +1,28 @@
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.exe
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.deps.json
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.dll
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.pdb
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.dll
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.pdb
+D:\Задача о рюкзаке\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.genruntimeconfig.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.exe
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.deps.json
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.runtimeconfig.json
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.runtimeconfig.dev.json
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.dll
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\bin\Debug\netcoreapp3.1\Knapsack_LimitObjects.pdb
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.csproj.AssemblyReference.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.AssemblyInfoInputs.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.AssemblyInfo.cs
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.csproj.CoreCompileInputs.cache
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.dll
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.pdb
+C:\Users\zaaza\Desktop\Tasks_CS\Knapsack_LimitObjects\obj\Debug\netcoreapp3.1\Knapsack_LimitObjects.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bounded_backpack/1.0.0": {
+        "runtime": {
+          "Bounded_backpack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bounded_backpack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

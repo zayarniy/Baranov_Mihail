@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/F2GHkcw2L7ewn/gOJhjbgr+UmALdjd7Lg3jVFn/vHug7Nz8Ev/Ill5B9wzOqxpNj7VsWnRPby6Lkl+1jnQDPg==",
+  "success": true,
+  "projectFilePath": "D:\\Задача о рюкзаке\\Tasks_CS\\Backpack_DynamicProgramming\\Backpack_DynamicProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\bin\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.exe
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\bin\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.deps.json
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\bin\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\bin\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\bin\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.dll
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\bin\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.pdb
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.dll
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.pdb
+D:\Задача о рюкзаке\Tasks_CS\MaxWeigthStones_with_objects\obj\Debug\netcoreapp3.1\MaxWeigthStones_with_objects.genruntimeconfig.cache

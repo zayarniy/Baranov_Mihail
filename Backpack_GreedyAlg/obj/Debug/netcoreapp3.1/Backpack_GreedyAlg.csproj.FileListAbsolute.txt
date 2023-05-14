@@ -1,0 +1,14 @@
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.exe
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.deps.json
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.dll
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.pdb
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.dll
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.pdb
+D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.genruntimeconfig.cache

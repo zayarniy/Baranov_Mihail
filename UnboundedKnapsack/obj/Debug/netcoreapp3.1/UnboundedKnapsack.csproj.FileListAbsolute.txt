@@ -1,0 +1,14 @@
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\bin\Debug\netcoreapp3.1\UnboundedKnapsack.exe
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\bin\Debug\netcoreapp3.1\UnboundedKnapsack.deps.json
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\bin\Debug\netcoreapp3.1\UnboundedKnapsack.runtimeconfig.json
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\bin\Debug\netcoreapp3.1\UnboundedKnapsack.runtimeconfig.dev.json
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\bin\Debug\netcoreapp3.1\UnboundedKnapsack.dll
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\bin\Debug\netcoreapp3.1\UnboundedKnapsack.pdb
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.csproj.AssemblyReference.cache
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.AssemblyInfoInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.AssemblyInfo.cs
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.csproj.CoreCompileInputs.cache
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.dll
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.pdb
+D:\Задача о рюкзаке\Tasks_CS\UnboundedKnapsack\obj\Debug\netcoreapp3.1\UnboundedKnapsack.genruntimeconfig.cache
