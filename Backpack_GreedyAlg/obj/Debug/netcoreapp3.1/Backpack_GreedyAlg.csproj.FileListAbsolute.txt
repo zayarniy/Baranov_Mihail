@@ -12,3 +12,17 @@ D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcorea
 D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.dll
 D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.pdb
 D:\Задача о рюкзаке\Tasks_CS\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.genruntimeconfig.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.exe
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.deps.json
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.runtimeconfig.json
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.runtimeconfig.dev.json
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.dll
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\bin\Debug\netcoreapp3.1\Backpack_GreedyAlg.pdb
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.csproj.AssemblyReference.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.GeneratedMSBuildEditorConfig.editorconfig
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.AssemblyInfoInputs.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.AssemblyInfo.cs
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.csproj.CoreCompileInputs.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.dll
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.pdb
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Backpack_GreedyAlg\obj\Debug\netcoreapp3.1\Backpack_GreedyAlg.genruntimeconfig.cache

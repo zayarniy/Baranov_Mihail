@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj": {}
+    "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj": {}
   },
   "projects": {
-    "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj": {
+    "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj",
+        "projectUniqueName": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj",
         "projectName": "Knapsack_Multiobjects",
-        "projectPath": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj",
+        "projectPath": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Knapsack_Multiobjects\\Knapsack_Multiobjects.csproj",
         "packagesPath": "C:\\Users\\zaaza\\.nuget\\packages\\",
-        "outputPath": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Knapsack_Multiobjects\\obj\\",
+        "outputPath": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Knapsack_Multiobjects\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\zaaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet-sdk-6.0.405-win-x64\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

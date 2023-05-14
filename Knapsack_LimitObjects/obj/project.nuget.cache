@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9db+b741gLkdNBLzgjWF0GuWUExohpoQl1tFRxs1Vd3Gpj5g0fj7MRmNDqP4Rh0PbJr6kdroRPMW0/OYt4SDow==",
+  "dgSpecHash": "w0CxKfpyTg/fOneeVoxlX+A890D2RookxE60It9kaGN0BzM1uzRZXyQW3RFJZAUr4msUUbQx7GDr6MmthAm9gg==",
   "success": true,
-  "projectFilePath": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Knapsack_LimitObjects\\Knapsack_LimitObjects.csproj",
+  "projectFilePath": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Knapsack_LimitObjects\\Knapsack_LimitObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zaaza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zaaza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

@@ -110,7 +110,7 @@ namespace Bounded_backpack
             //int w = startCount;
             //int i =  p.Count - 1;
             int i = startItem+1;
-            int[] counts=new int[p.Count];
+//            int[] counts=new int[p.Count];
             int k = w;
             while (i > 0)
             {
@@ -122,18 +122,15 @@ namespace Bounded_backpack
                     if (w > 0)
                     {
                         {
-                            if (counts[i - 1] < p[i - 1].Amount)
+                            if (selectedItems[p[i-1]] < p[i - 1].Amount)
                             {
                                 selectedItems[p[i - 1]]++;
-                                counts[i - 1]++;
+//                                counts[i - 1]++;
                                 w -= p[i - 1].Weight;
                                 k-= p[i - 1].Weight;
                             }
                             else
-                            {
-                                //k--;
                                 i--;
-                            }
                         }
                     }
                 }
@@ -141,7 +138,10 @@ namespace Bounded_backpack
             int sumCount = 0;
             foreach (var pair in selectedItems)
             {
-                Console.Write(pair.Key.Price + "$ с весом " + pair.Key.Weight + " кг x " + pair.Value + " шт. +");
+                if (pair.Value > 0)
+                {
+                    Console.WriteLine(pair.Key.Price + "$ с весом " + pair.Key.Weight + " кг x " + pair.Value + " шт.");
+                }
                 sumCount += pair.Value;
 
                 sumPrice += pair.Key.Price*pair.Value;
@@ -185,8 +185,9 @@ namespace Bounded_backpack
             Console.WriteLine("Limit weight:"+W);
             int[,] T = Solve(temp, W);
 
-            Print(T, temp);
+            Console.WriteLine("Выбранные вещи:");
             ItemsSelectBound(W, temp, T, temp.Count - 1);
+            Print(T, temp);
 
             Console.ReadKey();
         }

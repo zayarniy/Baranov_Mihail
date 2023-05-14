@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\zaaza\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\zaaza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Backpack_GreedyAlg\\Backpack_GreedyAlg.csproj",
+      "projectUniqueName": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Backpack_GreedyAlg\\Backpack_GreedyAlg.csproj",
       "projectName": "Backpack_GreedyAlg",
-      "projectPath": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Backpack_GreedyAlg\\Backpack_GreedyAlg.csproj",
+      "projectPath": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Backpack_GreedyAlg\\Backpack_GreedyAlg.csproj",
       "packagesPath": "C:\\Users\\zaaza\\.nuget\\packages\\",
-      "outputPath": "D:\\Задача о рюкзаке\\Решил!\\Tasks_CS\\Backpack_GreedyAlg\\obj\\",
+      "outputPath": "F:\\Репетиторство\\Баранов Михаил\\BaranovMihail\\Backpack_GreedyAlg\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\zaaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -84,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet-sdk-6.0.405-win-x64\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

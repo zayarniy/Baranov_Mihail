@@ -1,0 +1,15 @@
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\bin\Debug\net6.0\Bounded_backpack.exe
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\bin\Debug\net6.0\Bounded_backpack.deps.json
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\bin\Debug\net6.0\Bounded_backpack.runtimeconfig.json
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\bin\Debug\net6.0\Bounded_backpack.dll
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\bin\Debug\net6.0\Bounded_backpack.pdb
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.csproj.AssemblyReference.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.GeneratedMSBuildEditorConfig.editorconfig
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.AssemblyInfoInputs.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.AssemblyInfo.cs
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.csproj.CoreCompileInputs.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.dll
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\refint\Bounded_backpack.dll
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.pdb
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\Bounded_backpack.genruntimeconfig.cache
+F:\Репетиторство\Баранов Михаил\BaranovMihail\Bounded_backpack\obj\Debug\net6.0\ref\Bounded_backpack.dll
